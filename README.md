@@ -1,4 +1,4 @@
-# 26.01.GS.Guilherme_Lima_Jos-_Domingues
+# 26.01.GS.Guilherme_Lima_Jose_Domingues
 
 Monitoramento de Eventos Espaciais - Brasil
 Este projeto é um sistema em Python desenvolvido para simular o processamento de dados provenientes de monitoramento por satélites em diferentes regiões do Brasil. O sistema registra eventos como desmatamento, queimadas e variações climáticas, permitindo a análise de padrões e identificação de regiões críticas.

@@ -1,5 +1,5 @@
-#                Guilherme Lima - 569226
-# Representante: José Domingues - 568586  
+# Representante: Guilherme Lima - 569226
+#                José Domingues - 568586  
 
 # Listas para armazenar os dados
 tipos_eventos = []
